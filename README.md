@@ -1,6 +1,6 @@
 # YOLO ONNX Inference Outside Deepstream
 
-This repository contains python scripts for performing ONNX inference for YOLO v( and v10 models.
+This repository contains python scripts for performing ONNX inference for YOLO v8 and v10 models.
 
 ## Prerequisites
 
