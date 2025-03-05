@@ -1,6 +1,6 @@
 # YOLO ONNX Inference Outside Deepstream
 
-This repository contains a Python script for performing License Plate Recognition (LPR) using NVIDIA TAO's LPRNet model in ONNX format. The script processes license plate images and displays recognition results in a grid layout.
+This repository contains python scripts for performing ONNX inference for YOLO v( and v10 models.
 
 ## Prerequisites
 
